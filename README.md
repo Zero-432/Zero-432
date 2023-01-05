@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long Nguyen</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<img align="right" alt="GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="500" />
+<img align="right" alt="GIF" src="https://github.com/Zero-432/Zero-432/blob/main/code.gif?raw=true" width="500" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zero-432&label=visitors&color=0e75b6&style=flat" alt="zero-432" /> </p>
 
