@@ -27,10 +27,12 @@
 <p><a href="https://www.buymeacoffee.com/zero.nnl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zero.nnl" /></a></p><br><br>
 
 <h3 align="left">🔥 My Stats :</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zero-432&show_icons=true&locale=en" alt="zero-432" width="450"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zero-432&show_icons=true&locale=en" alt="zero-432" width="400"/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zero-432&show_icons=true&locale=en&layout=compact" alt="zero-432" width="300"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zero-432&" alt="zero-432" width="400"/></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zero-432&" alt="zero-432" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zero-432&show_icons=true&locale=en&layout=compact" alt="zero-432" /></p>
+
+
 
 
